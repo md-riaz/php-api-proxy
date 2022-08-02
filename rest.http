@@ -1,0 +1,11 @@
+POST https://api-proxy.app/user/login
+Content-Type: application/json; charset=utf-8;
+Accept: application/json; charset=utf-8;
+
+{
+    "email":"riazmd581@gmail.com",
+    "password": "P@$$w0rd786*"
+}
+
+###
+GET https://api-proxy.app/user/balance
